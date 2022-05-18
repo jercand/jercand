@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the C++ language and Python.
 - 💞️ I’m looking to collaborate on (TBD)
 - 📫 How to reach me:
-         candido.jf8@gmail.com
+         jcandid20@outlook.com
 
 <!---
 jercand/jercand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
